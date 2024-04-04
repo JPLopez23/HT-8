@@ -1,0 +1,10 @@
+Lucia Fernandez,dolor de muelas,D
+Ana Gómez,intoxicación alimentaria,C
+Sofia Cruz,esguince de tobillo,D
+Maria Ramirez,apendicitis,A
+Pedro Jimenez,gripe,E
+Carmen Sarmientos,dolores de parto,B
+Lorenzo Toledo,chikunguya,E
+Carlos Navarro,infarto de miocardio,A
+Daniel Torres,quemaduras graves,B
+Juan Perez,fractura de pierna,C
